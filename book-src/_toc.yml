@@ -1,0 +1,6 @@
+format: jb-book
+root: intro
+chapters:
+  - file: chapter1
+    sections:
+      - file: section1-1
